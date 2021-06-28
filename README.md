@@ -5,3 +5,5 @@ The task is to predict the person(A OR B) who is more influencial when compared 
 performed various preprocessing techniques and multiple classification algorithms and used 
 various ensemble models to increase the accuracy
 
+R based statistical Analysis
+
