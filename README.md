@@ -7,3 +7,5 @@ various ensemble models to increase the accuracy
 
 R based statistical Analysis
 
+Classification - descion tress , Svm , Logistic Regression , Nave Bayes
+Ensemble - Averaging , Majority Voting , Weighted Average , Stacking  Bagging (Random Forest , CRAT) , Boosting(Stochastic Gradient Boosting,c50)
